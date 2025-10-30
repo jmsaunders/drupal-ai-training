@@ -1,0 +1,6 @@
+# macOS system files
+.DS_Store
+
+# Ignore asset caches or temporary files
+assets/*.tmp
+assets/*.bak
