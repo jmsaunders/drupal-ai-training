@@ -4,3 +4,6 @@
 # Ignore asset caches or temporary files
 assets/*.tmp
 assets/*.bak
+*.bak
+*.patch
+.DS_Store
