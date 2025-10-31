@@ -1,12 +1,24 @@
 # Videos and Demos
 
-Copyright © 2025 James Matthew Saunders and Rod Martin.
-Created with support from amazee.io and Promet Source.
-Licensed under Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0).
+Short walkthroughs and demos to practise what you learned.
 
-This is a placeholder for links to:
-- Overview and initiative introductions
-- Automators and assistants walkthroughs
-- Agent swarms and CKEditor integrations
+## Drupal AI Training and Webinars
 
-Add links relevant to your workshop or event.
+- Drupal AI documentation hub  
+  https://www.drupal.org/project/ai
+
+- Drupal AI Demo environment  
+  https://drupal.org/ai/demo  
+  Choose **Advanced Drupal Skills**
+
+More videos will be added as they become available.
+
+---
+
+## Live Demo Environments
+
+- Latest Drupal CMS + AI tools demo  
+  https://drupal.org/ai/demo
+
+Note: Demo environments may **cold start** or **rate limit**. Retry if needed.
+
