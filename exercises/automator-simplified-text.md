@@ -1,7 +1,5 @@
 # Exercise — AI Automators (Hands On): Simplify Text to 6th Grade Level
 
-# Exercise — AI Automators (Hands On): Simplify Text to 6th Grade Level
-
 Audience: Beginning Drupal users  
 Admin theme: Gin  
 Environment: Local or any site with required modules available
