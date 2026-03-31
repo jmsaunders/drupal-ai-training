@@ -6,4 +6,5 @@ assets/*.tmp
 assets/*.bak
 *.bak
 *.patch
+.obsidian/
 .DS_Store
