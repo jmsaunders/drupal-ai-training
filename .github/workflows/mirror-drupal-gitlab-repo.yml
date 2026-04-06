@@ -1,0 +1,24 @@
+name: Mirror Drupal Gitlab Repo
+
+on:
+  schedule:
+    # Run every 15 minutes
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source repository
+        run: |
+          git clone --mirror https://git.drupalcode.org/project/drupal_ai_train_101.git repo.git
+
+      - name: Push to GitHub mirror
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd repo.git
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/jmsaunders/drupal-ai-training.git
+          git push --mirror origin
