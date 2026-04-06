@@ -20,6 +20,8 @@ Licensed under Creative Commons Attribution–ShareAlike 4.0 International (CC B
 ## Contributing
 Pull requests welcome. Please use Markdown, keep sections modular, and include short testing notes for any new exercises.
 
+This repository can be found here: https://git.drupalcode.org/project/drupal_ai_train_101 and is mirrored every 15 minutes here: https://github.com/jmsaunders/drupal-ai-training. The github repo is READ ONLY.
+
 ## License
 - Content: CC BY-SA 4.0
 - Example code snippets: GPL-2.0-or-later (Drupal standard)
