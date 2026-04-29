@@ -4,9 +4,9 @@ Copyright © 2025 James Matthew Saunders and Rod Martin.
 Created with support from amazee.io and Promet Source.
 Licensed under Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0).
 
-Audience: Beginning Drupal users  
-Admin theme: Gin  
-Environment: Drupal.org AI Demo environment (Drupal AI Demo)
+> Audience: **Beginning Drupal users**  
+> Admin theme: **Gin**  
+> Environment: **Drupal.org AI Demo environment (Drupal AI Demo)** — then "Drupal AI Demo" as shorthand
 
 ---
 
@@ -110,10 +110,10 @@ Example (conceptual):
 Recipes reduce variability and avoid prompt drift.
 
 Recipes enable:
-✅ Repeatable outcomes  
-✅ Governance  
-✅ Editorial efficiency  
-✅ Role-based control  
+- [ ] Repeatable outcomes
+- [ ] Governance
+- [ ] Editorial efficiency
+- [ ] Role-based control
 
 ---
 

@@ -1,8 +1,8 @@
 # Exercise — CKEditor AI setup (Content format only)
 
-Audience: Beginning Drupal users  
-Admin theme: Gin  
-Environment: Drupal.org AI Demo (Advanced Drupal Skills)
+> Audience: **Beginning Drupal users**  
+> Admin theme: **Gin**  
+> Environment: **Drupal.org AI Demo environment (Drupal AI Demo)** — then "Drupal AI Demo" as shorthand
 
 ## Goal
 Enable the AI buttons in the **Content** text format only, then verify them inside a real node.

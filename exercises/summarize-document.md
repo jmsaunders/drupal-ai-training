@@ -1,8 +1,8 @@
 # Exercise — Summarise selected text in CKEditor
 
-Audience: Beginning Drupal users  
-Admin theme: Gin  
-Environment: Drupal.org AI Demo (Advanced Drupal Skills)
+> Audience: **Beginning Drupal users**  
+> Admin theme: **Gin**  
+> Environment: **Drupal.org AI Demo environment (Drupal AI Demo)** — then "Drupal AI Demo" as shorthand
 
 ## Goal
 Use **AI Assistant → Summarise** to condense selected body text on a Basic page, then review and save as a draft.

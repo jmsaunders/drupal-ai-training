@@ -1,8 +1,8 @@
 # Exercise — Tone Taxonomy + CKEditor AI “Tone”
 
-Audience: Beginning Drupal users  
-Admin theme: Gin  
-Environment: Drupal.org AI Demo (Advanced Drupal Skills)
+> Audience: **Beginning Drupal users**  
+> Admin theme: **Gin**  
+> Environment: **Drupal.org AI Demo environment (Drupal AI Demo)** — then "Drupal AI Demo" as shorthand
 
 ## Goal
 Create a **Tone** vocabulary and wire it into **CKEditor AI → Tone**, then try it on a page.

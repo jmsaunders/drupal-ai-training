@@ -1,8 +1,8 @@
 # Exercise — AI Automators (Hands On): Simplify Text to 6th Grade Level
 
-Audience: Beginning Drupal users  
-Admin theme: Gin  
-Environment: Local or any site with required modules available
+> Audience: **Beginning Drupal users**  
+> Admin theme: **Gin**  
+> Environment: Local or any site with required modules available
 
 AI Automators are tools or workflows in Drupal that automatically apply AI-generated actions to content or fields without manual intervention each time.
 
